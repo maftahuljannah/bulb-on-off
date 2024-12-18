@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0; /* Remove default margin */
+  background-color: #000; /* Optional background color */
+  }
+  
+  .bulb-container {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  img {
+    width: 150px;
+    height: auto;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  
